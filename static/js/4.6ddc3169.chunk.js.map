@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home.jsx"],"names":["Home"],"mappings":"oIAIeA,UAJf,WACE,OAAO","file":"static/js/4.6ddc3169.chunk.js","sourcesContent":["function Home() {\n  return <div>Coming Soon!</div>;\n}\n\nexport default Home;\n"],"sourceRoot":""}

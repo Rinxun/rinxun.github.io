@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/About.jsx"],"names":["About"],"mappings":"oIAIeA,UAJf,WACE,OAAO","file":"static/js/3.f01928b2.chunk.js","sourcesContent":["function About() {\n  return <div>About US!</div>;\n}\n\nexport default About;\n"],"sourceRoot":""}
