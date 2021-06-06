@@ -1,2 +1,0 @@
-(this["webpackJsonprinxun-home"]=this["webpackJsonprinxun-home"]||[]).push([[6],{174:function(n,e,r){"use strict";r.r(e);var t=r(2);e.default=function(){return Object(t.jsx)("div",{children:"Partners"})}}}]);
-//# sourceMappingURL=6.8ce70f82.chunk.js.map
